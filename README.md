@@ -1,1 +1,1 @@
-![Banner](BPJ94487/bradyJohnsonGitHubBanner.png)
+![Banner](bradyJohnsonGitHubBanner.png)
