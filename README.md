@@ -2,13 +2,11 @@
 
 ## **Hello, thank you for visiting my GitHub!**
 
-Currently brushing up on my Java skills while continuing to build in React.<br />
+I am a software developer with a drive to improve and expand my expertise. As a former military medic and recent graduate of Prime Digital Academy, I have a depth of experience working in teams and learning at a fast pace.
 
-### What I am learning:
--Udemy Java Course
 
-### Side Projects
--scoping a website build for RecordsontheRocks.com
+
+
 
 
 
