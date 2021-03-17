@@ -1,14 +1,14 @@
 ![Banner](bradyJohnsonGitHubBanner.png)
 
-## **Hello, thank you for visiting my GitHub!**
+### **Hello, thank you for visiting my GitHub!**
 
-I am currently brushing back up on my Java skills while continuing to build in React.<br />
+Currently brushing up on my Java skills while continuing to build in React.<br />
 
-## **Learning in Progress:**
+## **What I am learning:**
 -Udemy Java Course
 
 ## **Side Projects**
--I am currently scoping a website build for RecordsontheRocks.com
+-scoping a website build for RecordsontheRocks.com
 
 
 
