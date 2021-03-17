@@ -1,3 +1,3 @@
 ![Banner](bradyJohnsonGitHubBanner.png)
 
-## **Hello, I'm Brady Johnson!**
+## **Hello, thank you for visiting my GitHub!**
